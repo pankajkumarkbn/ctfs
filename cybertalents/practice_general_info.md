@@ -60,7 +60,7 @@ Packetrix
 ```tex
 I will lock your machine screen or files till you pay me. Who am i ?
 ```
-randomware
+ransomware
 
 
 
@@ -77,3 +77,21 @@ CloudSec
 One of the famous, free port scanner. Who am i ?
 ```
 nmap
+
+## Robot
+```tex
+A group or network of machines that are controlled by an attacker to do a certain task
+```
+bot
+
+## Intercept 
+```tex
+the attacker intercept information between receiver and sender. what is the attack name ?
+```
+mitm
+
+## Capture
+```tex
+Network analysis tool used to captured packets and present it in readable format
+```
+wireshark
